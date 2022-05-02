@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmed-refaay&show_icons=true&locale=en&layout=compact" alt="mohmed-refaay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohmed-refaay&show_icons=true&locale=en" alt="mohmed-refaay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmed-refaay&" alt="mohmed-refaay" /></p>
