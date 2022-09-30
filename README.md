@@ -8,7 +8,7 @@ I'm a self-taught developer, who loves to learn new technologies every day. I'm 
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mohamedamrrefaay@gmail.com](mailto:mohamedamrrefaay@gmail.com)
-* 🧠  I'm learning Threejs.
+* 🧠  I'm learning Threejs/Creative Development.
 * 🤝  I'm open to collaborating on any challenging project
 
 ### Skills
