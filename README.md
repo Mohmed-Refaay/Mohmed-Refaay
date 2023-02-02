@@ -8,7 +8,7 @@ I'm a self-taught developer, who loves to learn new technologies every day. I'm 
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mohamedamrrefaay@gmail.com](mailto:mohamedamrrefaay@gmail.com)
-* 🧠  I'm working on being better at Threejs/Creative Development.
+* 🧠  I'm learning Threejs/Creative Development.
 * 🤝  I'm open to collaborating on any challenging project
 
 ### Skills
@@ -33,12 +33,3 @@ I'm a self-taught developer, who loves to learn new technologies every day. I'm 
 
 <p align="left"> <a href="https://www.dribbble.com/mohmed-refaay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mohmed-Refaay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohamedrefaay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Mohmed-Refaay"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohmed-Refaay&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Mohmed-Refaay"><img src="https://activity-graph.herokuapp.com/graph?username=Mohmed-Refaay&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Mohmed-Refaay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmed-Refaay&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
