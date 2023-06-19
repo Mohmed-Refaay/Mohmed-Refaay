@@ -4,7 +4,7 @@ Hi 👋 My name is Mohamed Refaay
 Full-Stack Developer/Creative Development Lover
 --------------------
 
-I'm a self-taught developer, who loves to learn new technologies every day. I'm a Full-Stack Developer but more into FE and implementing beautiful designs.
+I'm a self-taught developer, who loves to learn new technologies every day. I'm a Full-Stack Developer but more into FE and building 3D experiences with Threejs.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mohamedamrrefaay@gmail.com](mailto:mohamedamrrefaay@gmail.com)
@@ -15,6 +15,7 @@ I'm a self-taught developer, who loves to learn new technologies every day. I'm 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="36" height="36" alt="Threejs" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
