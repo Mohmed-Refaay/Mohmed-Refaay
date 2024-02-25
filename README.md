@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohamed Refaay
 ===============================
 
-Web 3D Developer
+3D Web Developer
 --------------------
 
 I'm a self-taught developer who loves learning new technologies daily. I'm a Software Developer but more into FE and building 3D experiences with Threejs. Building 3D experiences here 👉 [refaay.dev](https://refaay.dev)
